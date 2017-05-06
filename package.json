@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "babel-jest": "^19.0.0",
+    "babel-plugin-istanbul": "^4.1.3",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1"
+  },
+  "name": "optimusprime",
+  "version": "0.1.0",
+  "description": "Optimus Prime is a Transformer.",
+  "main": "index.js",
+  "repository": "git@github.com:jsbites/optimusprime.git",
+  "author": "Volkan Özçelik <me@volkan.io> (https://volkan.io)",
+  "license": "MIT"
+}
