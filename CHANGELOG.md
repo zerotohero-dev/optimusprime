@@ -10,6 +10,6 @@
                       /   /\__|_/  \  \__/--/
 ```
 
-## **Optimus Prime** (*v0.2.0*)
+## **Optimus Prime** (*v0.2.1*)
 
 * Initial working version. 

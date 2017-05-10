@@ -18,4 +18,4 @@
  * Send your comments, suggestions, and feedback to me@volkan.io
  */
 
-module.exports = require( 'lib' );
+module.exports = require( './lib' );

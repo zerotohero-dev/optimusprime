@@ -9,7 +9,7 @@
     "lint": "bin/lint.sh"
   },
   "name": "optimusprime",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Optimus Prime is a babel-jest Transformer.",
   "main": "index.js",
   "repository": "git@github.com:jsbites/optimusprime.git",
