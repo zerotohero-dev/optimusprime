@@ -36,7 +36,7 @@ It is a compilation of short (*around ten minutes*) monthly screencasts about **
 
 ## About **Optimus Prime**
 
-**Optimus Prime** is a [babel-jest](babel-jest) transformer*. 
+**Optimus Prime** is a [babel-jest](babel-jest) transformer. 
 
 I needed to create one, because I wanted to run a set of babel transformations in [jest][jest], and then realized that **jest** was swallowing the transform plugins that I specified in the `.babelrc` file.
 
