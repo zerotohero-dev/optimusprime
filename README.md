@@ -106,22 +106,6 @@ None at the moment.
 * `./.eslintrc`: Used for development; configures [eslint][eslint].
 * `.travis.yml`: Used for CI; configures [Travis][travis].
 
-## Deployment Instructions
-
-Since this web application uses `ServiceWorker`s, busting cache can sometimes be an issue.
-
-Here’s step-by-step instructions to follow for a successful deployment (*I’ll automate this once I’m sure the process is repeatable and trustworthy enough*).
-
-* Let `${version}` be the version number in the `package.json`.
-* Bump the version number.
-* Add the new state.json in the form `state-${version}.json` to `public/data`.
-* Clean the generated assets from the former webpack bundling.
-* Update `public/version.txt` with the new version number.
-* Execute `npm run build` (*assuming lints and tests are passing already*).
-* Deploy the `public` folder to **AWS S3**.
-* Invalidate all **CloudFront** caches.
-* Live long and prosper.
-
 ## Wanna Help?
 
 Any help is more than appreciated.
