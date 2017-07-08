@@ -9,7 +9,7 @@
     "lint": "bin/lint.sh"
   },
   "name": "optimusprime",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Optimus Prime is a babel-jest Transformer.",
   "main": "index.js",
   "repository": "git@github.com:jsbites/optimusprime.git",
@@ -22,19 +22,24 @@
     "eslint-plugin-babel": "^4.1.1"
   },
   "keywords": [
-      "transformer",
       "babel",
-      "jest",
-      "utility",
+      "byte-sized javascript",
+      "byte-sized",
+      "bytesized.tv",
+      "demos",
+      "education",
       "helper",
+      "javascript",
+      "jest",
+      "learning",
+      "podcast",
+      "screencast",
+      "transformer",
+      "tutorials",
+      "utility",
       "vidcast",
       "videocast",
-      "videos",
-      "tutorials",
-      "javascript",
-      "education",
-      "learning",
-      "screencast"
+      "videos"
   ],
   "bugs": {
     "url": "https://github.com/jsbites/optimusprime/issues"
