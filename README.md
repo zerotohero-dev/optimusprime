@@ -12,28 +12,6 @@
 
 **Optimus Prime** is a Transformer (*okay, it’s an instance of a [babel-jest](babel-jest) transformer*). 
 
-## About This Repository
-
-This repository is a part of the [Byte-Sized JavaScript Screencasts][vidcast].
-
-```
-  _               __
- |_)   _|_  _ __ (_  o _   _   _|
- |_) \/ |_ (/_   __) | /_ (/__(_|
-     /        |  _.     _. (_   _ ._ o ._ _|_
-            \_| (_| \/ (_| __) (_ |  | |_) |_
-                                       |
-            »»  bytesized.tv  ««
-```
-
-## Byte-Sized What?!
-
-[Byte-Sized JavaScript][vidcast].
-
-It is a compilation of short (*around ten minutes*) monthly screencasts about **JavaScript** and related technologies.
-
-[vidcast]: https://bytesized.tv/ "ByteSized.TV"
-
 ## About **Optimus Prime**
 
 **Optimus Prime** is a [babel-jest](babel-jest) transformer. 
@@ -141,4 +119,14 @@ We are committed to making participation in this project a harassment-free exper
 [yarn]: https://yarnpkg.com "yarn"
 [babel-jest]: https://github.com/babel/babel-jest "babel-jest"
 [jest]: https://facebook.github.io/jest/ "jest"
-[issue]: https://github.com/jsbites/bytesized.tv.web/issues/new "File an issue"
+[issue]: https://github.com/jsbites/optimusprime/issues/new "File an issue"
+
+## A [ByteSized.TV][vidcast] Project
+
+This repository is a part of the [Byte-Sized JavaScript VideoCasts][vidcast].
+
+It is a compilation of short (*around ten minutes*) screencasts about **JavaScript** and related technologies.
+
+[**Learn**, **explore**, and **have fun**][vidcast]!
+
+[vidcast]: https://bytesized.tv/ "ByteSized.TV"
